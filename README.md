@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-Projeto criado com a playlist do canal [Papo de dev](https://www.youtube.com/watch?v=UxsNGdCUoNg&list=PLOUrDmh7c7mXIGqi-qI5YKjsLWAyaR0la&index=1)
+Projeto criado com a playlist do canal [Papo de dev](https://www.youtube.com/watch?v=UxsNGdCUoNg&list=PLOUrDmh7c7mXIGqi-qI5YKjsLWAyaR0la&index=1), para ver clique [aqui](https://felipeferreirass.github.io/dashboard-star-wars/)
 
 ## :rocket: Technologies ##
 
